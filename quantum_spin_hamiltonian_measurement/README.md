@@ -2,12 +2,12 @@ This repository demonstrates quantum measurement–based energy estimation of
 two-qubit spin Hamiltonians using Qiskit. The workflow mirrors the **measurement core of variational quantum algorithms (VQE)** for both isotropic and anisotropic spin models and validate quantum measurement results against classical exact diagonalization.
 ### Isotropic Heisenberg Model
 \[
-H = J (X - X + Y \otimes Y + Z \otimes Z)
+H = J (X . X + Y . Y + Z . Z)
 \]
 
 ### Anisotropic XXZ Model
 \[
-H = J (X \otimes X + Y \otimes Y) + \Delta (Z \otimes Z)
+H = J (X . X + Y . Y) + \Delta (Z . Z)
 \]
 
 - Hamiltonians are decomposed into Pauli strings (XX, YY, ZZ)
