@@ -1,0 +1,4 @@
+qiskit (quantum circuits, simulation)
+qiskit-aer (noise-aware simulation)
+numpy (exact diagonalization)
+matplotlib(scaling analysis)
