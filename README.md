@@ -1,1 +1,1 @@
-This repository contains a collection of hands-on quantum computing projects implemented using Qiskit and Cirq. The projects focus on quantum algorithms, measurement workflows, noise analysis, and validation against classical numerical methods.
+This repository contains a collection of hands-on quantum computing projects implemented using Qiskit. The projects focus on quantum algorithms, measurement workflows, noise analysis, and validation against classical numerical methods.
